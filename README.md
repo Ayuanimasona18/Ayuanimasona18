@@ -12,7 +12,7 @@
       about the topic: 🎀soft skills (portfolio, public speaking),🎀 Design Thinking For Intelligence,🎀 AI (Engineering prompt and Art Engineering prompt)
   
 - ⚡ fun facts:
-     ### 🌱I like cats, but my cat died not long ago, it's really sad
+     #### 🌱I like cats, but my cat died not long ago, it's really sad
      ## 🌱I like drawing, I really like anime drawings because they're just cute
      ## 🌱I like reading webtoons, do you know the Windbreaker comic?
      ## 🌱I like playing games, especially the game I recently downloaded called "ojol" it's fun to try!
